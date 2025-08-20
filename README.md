@@ -59,7 +59,7 @@ A aplicação permite a troca de mensagens entre dois arquivos conectados em red
    python cliente.py
    ```
 
-> **Observação:** Altere o IP do host no código para corresponder ao IP da máquina que está executando o servidor e também certifique que esta na pasta raiz do projeto.
+> **Observação:** Altere o IP do host no código para corresponder ao IP da máquina que está executando o servidor e também certifique que esta na pasta raiz do projeto. Para obter os certificados TLS na sua máquina <a href="https://www.youtube.com/watch?v=HZ2OKVu5O0s&t=276s">no link</a>.
 
 ---
 
